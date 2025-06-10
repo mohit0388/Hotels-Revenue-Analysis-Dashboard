@@ -27,7 +27,18 @@ Revenue per Available Room (RevPAR)
 
 KPI cards update dynamically based on slicer selections (e.g., selected week or month).
 
-4. 🔁 Running Total Revenue (YTD / MTD Trendline)
+4.  Running Total Revenue (YTD / MTD Trendline)
 Shows cumulative revenue as it grows over a month or year.
 
 Useful for identifying patterns like seasonal spikes or underperformance early in the period.
+
+##  Insights
+
+- Revenue and occupancy vary clearly by season — highlighting **peak travel periods**
+- **ADR and RevPAR** are closely tied, proving the importance of pricing strategy
+- Week-over-week analysis supports agile decision-making for promotions or yield management
+- Clear visualization of **segment performance** helps identify high-value customers
+
+## 🖼️ Dashboard Preview  
+![image](https://github.com/user-attachments/assets/5c7c2f78-5728-4e87-9b9e-64e6a61dfa3a)
+
