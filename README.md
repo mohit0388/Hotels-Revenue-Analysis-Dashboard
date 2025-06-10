@@ -42,3 +42,9 @@ Useful for identifying patterns like seasonal spikes or underperformance early i
 ## 🖼️ Dashboard Preview  
 ![image](https://github.com/user-attachments/assets/5c7c2f78-5728-4e87-9b9e-64e6a61dfa3a)
 
+## Conclusion
+The Hotel Revenue Analysis Dashboard effectively transforms raw booking and occupancy data into a powerful business intelligence tool. With its clean layout, interactive filters, and strong use of DAX time intelligence, the dashboard empowers hotel managers and analysts to monitor revenue performance, track trends, and identify opportunities for growth.
+
+By incorporating key metrics such as Total Revenue, ADR, Occupancy Rate, and RevPAR, the dashboard enables fast and informed decision-making. It also highlights areas of underperformance and success, supporting strategic pricing, marketing, and resource planning.
+
+Overall, this project showcases the value of data-driven decision-making in the hospitality industry and demonstrates the practical application of Power BI, DAX, and time-based analytics to solve real-world business problems.
