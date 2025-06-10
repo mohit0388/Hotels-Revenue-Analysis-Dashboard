@@ -18,7 +18,7 @@ Users can filter by month, week number, or custom date ranges using slicers.
 Allows comparison of current vs. previous time periods to understand business momentum.
 
 3. KPI Cards for Core Metrics
-Includes KPI cards with dynamic indicators such as:
+Includes KPI cards with dynamic indicators
 
 ## KPI	Description
 Average Daily Rate (ADR)	Measures the average revenue earned per room sold
